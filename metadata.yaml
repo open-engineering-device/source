@@ -16,3 +16,7 @@ relationships:
 lifecycle: proposed
 repositories:
   - open-engineering-device/source
+semantic:
+  id: io.open-engineering.device/organization
+  type: oe:Organization
+  context: https://open-engineering.io/ontology/v1alpha1
